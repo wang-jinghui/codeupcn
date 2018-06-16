@@ -24,6 +24,14 @@ codeup.cn
 
 1937　　[查找](https://github.com/wang-jinghui/codeupcn/blob/master/1937.md)
 
+1941　　[又一版A+B](https://github.com/wang-jinghui/codeupcn/blob/master/1941.md)
+
+1942　　[数制转换any2any](https://github.com/wang-jinghui/codeupcn/blob/master/1942.md)
+
+1943　　[进制转换２](https://github.com/wang-jinghui/codeupcn/blob/master/1943.md)
+
+1944　　[八进制](https://github.com/wang-jinghui/codeupcn/blob/master/1944.md)
+
 1993　　[U型输出字符串](https://github.com/wang-jinghui/codeupcn/blob/master/1993.md)
 
 2003　　[等腰梯形](https://github.com/wang-jinghui/codeupcn/blob/master/2003.md)
