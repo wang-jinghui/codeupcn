@@ -4,6 +4,11 @@ codeup.cn
 
 1009　　[说反话](https://github.com/wang-jinghui/codeupcn/blob/master/1009.md)
 
+1785　　[字符串连接](https://github.com/wang-jinghui/codeupcn/blob/master/1785.md)
+
+N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/blob/master/N1785.md)
+
+
 1814　　[剩下的树](https://github.com/wang-jinghui/codeupcn/blob/master/1814.md)
 
 1817　　[A+B](https://github.com/wang-jinghui/codeupcn/blob/master/1817.md)
