@@ -2,6 +2,8 @@
 
 codeup.cn
 
+1009　　[说反话](https://github.com/wang-jinghui/codeupcn/blob/master/1009.md)
+
 1814　　[剩下的树](https://github.com/wang-jinghui/codeupcn/blob/master/1814.md)
 
 1817　　[A+B](https://github.com/wang-jinghui/codeupcn/blob/master/1817.md)
@@ -45,6 +47,8 @@ codeup.cn
 2063　　[日期累加](https://github.com/wang-jinghui/codeupcn/blob/master/2063.md)
 
 2056　　[图形：沙漏](https://github.com/wang-jinghui/codeupcn/blob/master/2056.md)
+
+5901　　[回文串](https://github.com/wang-jinghui/codeupcn/blob/master/5901.md)
 
 6128　　[A+B和C](https://github.com/wang-jinghui/codeupcn/blob/master/6128.md)
 
