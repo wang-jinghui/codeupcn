@@ -8,6 +8,9 @@ codeup.cn
 
 N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/blob/master/N1785.md)
 
+1805　　[首字母大写](https://github.com/wang-jinghui/codeupcn/blob/master/1805.md)
+
+1808　　[字符串查找删除](https://github.com/wang-jinghui/codeupcn/blob/master/1808.md)
 
 1814　　[剩下的树](https://github.com/wang-jinghui/codeupcn/blob/master/1814.md)
 
@@ -38,6 +41,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 1943　　[进制转换２](https://github.com/wang-jinghui/codeupcn/blob/master/1943.md)
 
 1944　　[八进制](https://github.com/wang-jinghui/codeupcn/blob/master/1944.md)
+
+1962　　[单词替换](https://github.com/wang-jinghui/codeupcn/blob/master/1962.md)
 
 1993　　[U型输出字符串](https://github.com/wang-jinghui/codeupcn/blob/master/1993.md)
 
