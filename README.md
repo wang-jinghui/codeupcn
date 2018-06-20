@@ -44,17 +44,25 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 1962　　[单词替换](https://github.com/wang-jinghui/codeupcn/blob/master/1962.md)
 
+1963　　[字符串去特定字符](https://github.com/wang-jinghui/codeupcn/blob/master/1963.md)
+
+1967　　[数组逆置](https://github.com/wang-jinghui/codeupcn/blob/master/1967.md)
+
 1993　　[U型输出字符串](https://github.com/wang-jinghui/codeupcn/blob/master/1993.md)
 
 2003　　[等腰梯形](https://github.com/wang-jinghui/codeupcn/blob/master/2003.md)
 
 2020　　[学生查询](https://github.com/wang-jinghui/codeupcn/blob/master/2020.md)
 
+2025　　[比较字符串](https://github.com/wang-jinghui/codeupcn/blob/master/2025.md)
+
 2026　　[日期类（＋１）](https://github.com/wang-jinghui/codeupcn/blob/master/2026.md)
 
 2036　　[奇偶数比较](https://github.com/wang-jinghui/codeupcn/blob/master/2036.md)
 
 2063　　[日期累加](https://github.com/wang-jinghui/codeupcn/blob/master/2063.md)
+
+2064　　[编排字符串](https://github.com/wang-jinghui/codeupcn/blob/master/2064.md)
 
 2056　　[图形：沙漏](https://github.com/wang-jinghui/codeupcn/blob/master/2056.md)
 
