@@ -18,6 +18,12 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 1906　　[特殊乘法](https://github.com/wang-jinghui/codeupcn/blob/master/1906.md)
 
+1923　　[排序](https://github.com/wang-jinghui/codeupcn/blob/master/1923.md)
+
+1925　　[特殊排序](https://github.com/wang-jinghui/codeupcn/blob/master/1925.md)
+
+1926　　[Excel排序](https://github.com/wang-jinghui/codeupcn/blob/master/1926.md)
+
 1928　　[日期差值](https://github.com/wang-jinghui/codeupcn/blob/master/1928.md)
 
 1929　　[今天星期几](https://github.com/wang-jinghui/codeupcn/blob/master/1929.md)
