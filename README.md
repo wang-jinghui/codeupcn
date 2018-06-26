@@ -80,6 +80,10 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 2069　　[中位数](https://github.com/wang-jinghui/codeupcn/blob/master/2069.md)
 
+2080　　[整数奇偶排序](https://github.com/wang-jinghui/codeupcn/blob/master/2080.md)
+
+2088　　[排名](https://github.com/wang-jinghui/codeupcn/blob/master/2088.md)
+
 5901　　[回文串](https://github.com/wang-jinghui/codeupcn/blob/master/5901.md)
 
 6128　　[A+B和C](https://github.com/wang-jinghui/codeupcn/blob/master/6128.md)
