@@ -24,6 +24,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 1926　　[Excel排序](https://github.com/wang-jinghui/codeupcn/blob/master/1926.md)
 
+1927　　[字符串内排序](https://github.com/wang-jinghui/codeupcn/blob/master/1927.md)
+
 1928　　[日期差值](https://github.com/wang-jinghui/codeupcn/blob/master/1928.md)
 
 1929　　[今天星期几](https://github.com/wang-jinghui/codeupcn/blob/master/1929.md)
@@ -54,6 +56,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 1967　　[数组逆置](https://github.com/wang-jinghui/codeupcn/blob/master/1967.md)
 
+1978　　[ProblemB](https://github.com/wang-jinghui/codeupcn/blob/master/1978.md)
+
 1993　　[U型输出字符串](https://github.com/wang-jinghui/codeupcn/blob/master/1993.md)
 
 2003　　[等腰梯形](https://github.com/wang-jinghui/codeupcn/blob/master/2003.md)
@@ -66,11 +70,15 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 2036　　[奇偶数比较](https://github.com/wang-jinghui/codeupcn/blob/master/2036.md)
 
+2043　　[小白鼠排队](https://github.com/wang-jinghui/codeupcn/blob/master/2043.md)
+
+2056　　[图形：沙漏](https://github.com/wang-jinghui/codeupcn/blob/master/2056.md)
+
 2063　　[日期累加](https://github.com/wang-jinghui/codeupcn/blob/master/2063.md)
 
 2064　　[编排字符串](https://github.com/wang-jinghui/codeupcn/blob/master/2064.md)
 
-2056　　[图形：沙漏](https://github.com/wang-jinghui/codeupcn/blob/master/2056.md)
+2069　　[中位数](https://github.com/wang-jinghui/codeupcn/blob/master/2069.md)
 
 5901　　[回文串](https://github.com/wang-jinghui/codeupcn/blob/master/5901.md)
 
