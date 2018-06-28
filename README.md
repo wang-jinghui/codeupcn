@@ -4,6 +4,8 @@ codeup.cn
 
 1009　　[说反话](https://github.com/wang-jinghui/codeupcn/blob/master/1009.md)
 
+1782　　[谁是你潜在的朋友](https://github.com/wang-jinghui/codeupcn/blob/master/1782.md)
+
 1785　　[字符串连接](https://github.com/wang-jinghui/codeupcn/blob/master/1785.md)
 
 N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/blob/master/N1785.md)
@@ -78,6 +80,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 2064　　[编排字符串](https://github.com/wang-jinghui/codeupcn/blob/master/2064.md)
 
+2066　　[分组统计](https://github.com/wang-jinghui/codeupcn/blob/master/2066.md)
+
 2069　　[中位数](https://github.com/wang-jinghui/codeupcn/blob/master/2069.md)
 
 2080　　[整数奇偶排序](https://github.com/wang-jinghui/codeupcn/blob/master/2080.md)
@@ -85,6 +89,10 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 2088　　[排名](https://github.com/wang-jinghui/codeupcn/blob/master/2088.md)
 
 5901　　[回文串](https://github.com/wang-jinghui/codeupcn/blob/master/5901.md)
+
+6112　　[Be Unique](https://github.com/wang-jinghui/codeupcn/blob/master/6112.md)
+
+6120　　[String Subtraction](https://github.com/wang-jinghui/codeupcn/blob/master/6120.md)
 
 6128　　[A+B和C](https://github.com/wang-jinghui/codeupcn/blob/master/6128.md)
 
