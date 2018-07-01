@@ -20,6 +20,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 1906　　[特殊乘法](https://github.com/wang-jinghui/codeupcn/blob/master/1906.md)
 
+1907　　[吃糖果](https://github.com/wang-jinghui/codeupcn/blob/master/1907.md)
+
 1923　　[排序](https://github.com/wang-jinghui/codeupcn/blob/master/1923.md)
 
 1925　　[特殊排序](https://github.com/wang-jinghui/codeupcn/blob/master/1925.md)
@@ -64,6 +66,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 2003　　[等腰梯形](https://github.com/wang-jinghui/codeupcn/blob/master/2003.md)
 
+2018　　[数列](https://github.com/wang-jinghui/codeupcn/blob/master/2018.md)
+
 2020　　[学生查询](https://github.com/wang-jinghui/codeupcn/blob/master/2020.md)
 
 2025　　[比较字符串](https://github.com/wang-jinghui/codeupcn/blob/master/2025.md)
@@ -73,6 +77,10 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 2036　　[奇偶数比较](https://github.com/wang-jinghui/codeupcn/blob/master/2036.md)
 
 2043　　[小白鼠排队](https://github.com/wang-jinghui/codeupcn/blob/master/2043.md)
+
+2044　　[神奇的口袋](https://github.com/wang-jinghui/codeupcn/blob/master/2044.md)
+
+2046　　[八皇后](https://github.com/wang-jinghui/codeupcn/blob/master/2046.md)
 
 2056　　[图形：沙漏](https://github.com/wang-jinghui/codeupcn/blob/master/2056.md)
 
