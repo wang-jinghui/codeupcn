@@ -4,6 +4,10 @@ codeup.cn
 
 1009　　[说反话](https://github.com/wang-jinghui/codeupcn/blob/master/1009.md)
 
+1026　　[看电视](https://github.com/wang-jinghui/codeupcn/blob/master/1026.md)
+
+1028　　[出租车费](https://github.com/wang-jinghui/codeupcn/blob/master/1028.md)
+
 1782　　[谁是你潜在的朋友](https://github.com/wang-jinghui/codeupcn/blob/master/1782.md)
 
 1785　　[字符串连接](https://github.com/wang-jinghui/codeupcn/blob/master/1785.md)
