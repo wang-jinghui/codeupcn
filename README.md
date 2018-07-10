@@ -78,6 +78,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 2026　　[日期类（＋１）](https://github.com/wang-jinghui/codeupcn/blob/master/2026.md)
 
+2031　　[To Fill or Not to Fill](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202031%5DTo%20Fill%20or%20Not%20to%20Fill.md)
+
 2036　　[奇偶数比较](https://github.com/wang-jinghui/codeupcn/blob/master/2036.md)
 
 2043　　[小白鼠排队](https://github.com/wang-jinghui/codeupcn/blob/master/2043.md)
@@ -99,6 +101,12 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 2080　　[整数奇偶排序](https://github.com/wang-jinghui/codeupcn/blob/master/2080.md)
 
 2088　　[排名](https://github.com/wang-jinghui/codeupcn/blob/master/2088.md)
+
+2132　　[Repair the Wall](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202132%5D%20Repair%20the%20Wall.md)
+
+2134　　[FatMouse's Trade](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202134%5D%20FatMouse's%20Trade.md)
+
+2143　　[迷瘴](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202143%5D%20%E8%BF%B7%E7%98%B4.md)
 
 5901　　[回文串](https://github.com/wang-jinghui/codeupcn/blob/master/5901.md)
 
