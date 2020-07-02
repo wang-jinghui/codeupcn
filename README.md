@@ -104,6 +104,8 @@ N1785　　[字符串连接(去重)](https://github.com/wang-jinghui/codeupcn/bl
 
 2132　　[Repair the Wall](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202132%5D%20Repair%20the%20Wall.md)
 
+****    [数组动态求和](https://github.com/wang-jinghui/codeupcn/blob/master/)
+
 2134　　[FatMouse's Trade](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202134%5D%20FatMouse's%20Trade.md)
 
 2143　　[迷瘴](https://github.com/wang-jinghui/codeupcn/blob/master/%5Bcodeup%202143%5D%20%E8%BF%B7%E7%98%B4.md)
